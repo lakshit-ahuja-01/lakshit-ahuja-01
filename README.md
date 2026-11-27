@@ -32,11 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshit-ahuja-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### 📈 Commit Pulse
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshit-ahuja-01&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
 ### 🐍 Contribution Snake
 <p align="center">
   <picture>
