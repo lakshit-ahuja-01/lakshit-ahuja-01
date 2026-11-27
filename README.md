@@ -14,12 +14,27 @@
 
 ---
 
-### 🚀 Featured Build
-<p align="center">
-  <a href="https://github.com/lakshit-ahuja-01/JuriBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshit-ahuja-01&repo=JuriBox&theme=tokyonight&hide_border=true" alt="JuriBox Repo Card" />
-  </a>
-</p>
+### 🚀 Featured Builds
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/lakshit-ahuja-01/BuildBoard">🧩 BuildBoard</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Prototype_Testing-0e7490?style=flat-square" alt="Prototype Testing" />
+      </p>
+      <p align="center">Prototype testing platform where builders connect with testers, collect structured feedback, and iterate with real user insights.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/lakshit-ahuja-01/JuriBox">⚖️ JuriBox</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=22d3ee" alt="Java 21" />
+        <img src="https://img.shields.io/badge/MySQL_%2B_Threads-0e7490?style=flat-square" alt="MySQL + Threads" />
+      </p>
+      <p align="center">Automated court case scheduling simulator with priority greedy allocation, conflict detection, concurrent courtroom threads, and JDBC persistence.</p>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Telemetry
 <p align="center">
