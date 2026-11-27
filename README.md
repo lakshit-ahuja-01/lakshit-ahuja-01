@@ -22,11 +22,6 @@
   </a>
 </p>
 
-### ⚡ Core Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,linux,bash&theme=dark" alt="Tech Stack" />
-</p>
-
 ### 📊 GitHub Telemetry
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshit-ahuja-01&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
