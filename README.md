@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshit-ahuja-01&label=PROFILE+VIEWS&color=0e7490&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/lakshit-ahuja-01?tab=followers">
     <img src="https://img.shields.io/github/followers/lakshit-ahuja-01?label=FOLLOWERS&style=for-the-badge&color=1e293b&logo=github" alt="Followers" />
   </a>
