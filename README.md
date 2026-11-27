@@ -24,12 +24,12 @@
 
 ### 📊 GitHub Telemetry
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshit-ahuja-01&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshit-ahuja-01&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshit-ahuja-01&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshit-ahuja-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshit-ahuja-01&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshit-ahuja-01&layout=donut&bg_color=0d1117&title_color=22d3ee&text_color=e2e8f0&hide_border=true" height="175" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Snake
